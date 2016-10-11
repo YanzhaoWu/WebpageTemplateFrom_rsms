@@ -10,7 +10,7 @@ layout: null
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://yanzhaowu.me/resume/</loc>
+    <loc>http://yanzhaowu.me/cv/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

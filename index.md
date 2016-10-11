@@ -13,7 +13,7 @@ I participated in several reseach projects, mainly on distributed systems, paral
 
 Currently, I work as a research intern in [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) in [Internet Media (IM) Group](https://www.microsoft.com/en-us/research/group/internet-media/).
 
-### Free time activities
+### Extracurricular activities
 
 - Sports: Running and Ping-pang. One of my most honorable events is that I finished the half-marathon in 2015 Hefei International Marathon Competition.
 - Literature: I love reading novels and even try to write one.
