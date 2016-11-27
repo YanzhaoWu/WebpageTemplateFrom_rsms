@@ -15,7 +15,7 @@ Currently, I work as a research intern in [Microsoft Research Asia (MSRA)](https
 
 ### Extracurricular activities
 
-- Sports: Running and Ping-pang. One of my most honorable events is that I finished the half-marathon in 2015 Hefei International Marathon Competition.
+- Sports: Running and Ping-pong. One of my most honorable events is that I finished the half-marathon in 2015 Hefei International Marathon Competition.
 - Literature: I love reading novels and even try to write one.
 
 ### Contact
