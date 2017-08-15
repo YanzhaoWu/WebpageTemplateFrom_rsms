@@ -11,13 +11,12 @@ Email: <yanzhaowumail@gmail.com> \| <wuyanzha@mail.ustc.edu.cn>
 Phone: +86 18356018379  
 Skype: bryan_wyz@outlook.com  
 Website: <http://yanzhaowu.me>  
-Address: Room 316, Building 1, West Campus, USTC, Hefei, Anhui, P.R.China
 
 Education
 =========
 [**University of Science and Technology of China**](http://en.ustc.edu.cn/)  
 *School of Computer Science and Technology (Elite Class)*  
-Undergraduate, 2013-2017(Expected)  
+Undergraduate, 2013-2017  
 GPA Major: 3.87/4.30  
 GPA Overall: 3.80/4.30  
 
