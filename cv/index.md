@@ -19,7 +19,7 @@ Education
 *School of Computer Science and Technology (Elite Class)*  
 Undergraduate, 2013-2017(Expected)  
 GPA Major: 3.87/4.30  
-GPA Overall: 3.76/4.30  
+GPA Overall: 3.80/4.30  
 
 [**University of Birmingham**](http://www.birmingham.ac.uk/)  
 *School of Computer Science*  
@@ -33,8 +33,8 @@ Research
 [PRISM](http://www.prismmodelchecker.org/) is a probabilistic model checker, a tool for formal modeling and analysis of systems that exhibit random or probabilistic behavior.  
 My main job is to implement *LTS*(***L****abeled* ***T****ransition* ***S****ystems)* model checker and *game* model checker for PRISM which will enable it to support **non-probabilistic** models further.
 
-- Code Clone Detection 
-[National High-Performance Computing Center (Hefei)](http://en.nhpcc.ustc.edu.cn/)
+- Code Clone Detection  
+[National High-Performance Computing Center (Hefei)](http://en.nhpcc.ustc.edu.cn/)  
 09/2015 — 08/2016  
 Code clone is a sequence of source of codes that occurs more than once, which is prone to introducing errors. This project aims at implementing an automated tool to find clones in source code(a.k.a. clone detection) with more efficiency and accuracy, where an approach derived from bioinformatics is elaborately applied. A **paper** on this project is expected to be published soon.  
 My main job in this project is to implement the **parser**, involve in the design of the **algorithm** and prove a **theorem** related to edit distance.
@@ -66,6 +66,7 @@ My main job is to optimize *WRF* on our system and in charge of one secret appli
 
 Award
 =====
+- 04/2017: Outstanding Graduate Award
 - 2015-2016: Excellent Student Scholarship (Top 3%)
 - 10/2015: The Third Prize for the Desktop Entertainment Robot Competition in RoboGame
 - 2014-2015: Leadership Scholarship
@@ -75,7 +76,6 @@ Award
 
 Work
 ====
-- 09/2016 — Current: Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 - 09/2015 — 01/2016: Teaching Assistant of *Computer Programming A*
 
 Volunteer
