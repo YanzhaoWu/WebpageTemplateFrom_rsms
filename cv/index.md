@@ -6,19 +6,20 @@ title: Curriculum Vitae
 Yanzhao Wu
 ==========
 
-
-Email: <yanzhaowumail@gmail.com> \| <wuyanzha@mail.ustc.edu.cn>  
-Phone: +86 18356018379  
+Email: <yanzhaowumail@gmail.com> \| <yanzhaowu@gatech.edu>  
 Skype: bryan_wyz@outlook.com  
 Website: <http://yanzhaowu.me>  
 
 Education
 =========
+[**Georgia Institute of Technology**](http://wwww.gatech.edu)  
+*School of Computer Science, College of Computing*  
+Ph.D. student, 2017-present  
+
 [**University of Science and Technology of China**](http://en.ustc.edu.cn/)  
 *School of Computer Science and Technology (Elite Class)*  
 Undergraduate, 2013-2017  
-GPA Major: 3.87/4.30  
-GPA Overall: 3.80/4.30  
+GPA Overall: 3.80/4.30
 
 [**University of Birmingham**](http://www.birmingham.ac.uk/)  
 *School of Computer Science*  
