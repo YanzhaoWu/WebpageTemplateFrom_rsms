@@ -46,6 +46,8 @@
       <ul class="navigation">
         <li> <a href="/" {% if page.url == "/"%}class="active"{% endif %} title="Homepage">Home</a></li>
         <li><a href="/projects/"{% if page.url contains "/projects/" %}class="active"{% endif %} title="Projects I am or was involved in">Projects</a></li>
+        <li><a href="/pub/"{% if page.url contains "/pub/" %}class="active"{% endif %} title="Publications">Publications</a></li>
+        <li><a href="/talks/"{% if page.url contains "/talks/" %}class="active"{% endif %} title="talks">Talks</a></li>
         <li><a href="/cv/"{% if page.url contains "/cv/" %}class="active"{% endif %} title="Curriculum Vitae">Curriculum Vitae</a></li>
       </ul>
     </header>
