@@ -6,8 +6,8 @@ title: Curriculum Vitae
 Yanzhao Wu
 ==========
 
-Email: <yanzhaowumail@gmail.com> \| <yanzhaowu@gatech.edu>
-Phone: +1 (404) 279 2853   
+Email: <yanzhaowumail@gmail.com> \| <yanzhaowu@gatech.edu>  
+Phone: +1 (404) 279 2853  
 Skype: bryan_wyz@outlook.com  
 Website: <http://yanzhaowu.me>  
 Office: Klaus Advanced Computing Building, Room 3201  
